@@ -28,10 +28,10 @@ avec VBA : clients, terrains, budget, permis, avancement des chantiers et tablea
 
 ## Captures
 
-![Espace_connexion](images/Espace_co.png)
-![Accueil](images/Accueil.png)
-![Fonction_collaboratives](images/Fonction_collabo.png)
-![Tableau de bord](images/Dashboard.png)
+![Espace_connexion](Images/Espace_co.png)
+![Accueil](Images/Accueil.png)
+![Fonction_collaboratives](Images/Fonction_collabo.png)
+![Tableau de bord](Images/Dashboard.png)
 
 
 ## Utilisation
