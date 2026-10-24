@@ -35,9 +35,9 @@ avec VBA : clients, terrains, budget, permis, avancement des chantiers et tablea
 
 
 ## Utilisation
-1. Ouvrir `application/[nom du fichier].xlsm`.
+1. Ouvrir `application/[Version1].xlsm`.
 2. Activer les macros lorsqu'Excel le propose.
-3. Naviguer depuis l'écran d'accueil : [décris en une phrase le parcours principal].
+3. Naviguer depuis l'écran d'accueil : [Après connexion explorer les fonctionnalités de l'application en cliquant sur les boutons].
 
 ## Organisation du dépôt
 - `application/` : le fichier Excel avec macros
