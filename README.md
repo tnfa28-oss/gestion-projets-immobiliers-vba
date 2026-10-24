@@ -12,22 +12,27 @@ avec VBA : clients, terrains, budget, permis, avancement des chantiers et tablea
 
 | Module | Inclus dans la version 1 |
 |---|---|
-| Accueil (menu principal) 
-| Clients 
-| Terrains 
-| Budget 
-| Permis de construire 
-| Projets 
-| Gros œuvre 
-| Second œuvre 
-| Finitions 
-| Synthèse (tableau de bord) 
+| Accueil (menu principal) | oui |
+| Clients | oui |
+| Terrains |oui  |
+| Budget |oui  |
+| Permis de construire | oui |
+| Projets | oui |
+| Gros œuvre | oui |
+| Second œuvre | oui |
+| Finitions | oui |
+| Synthèse (tableau de bord) | oui |
+| Synchronisation cloud | Non |
+|notifications par e-mail| Non |
 
-Les fonctions collaboratives (synchronisation cloud, notifications par e-mail) ne font pas partie de cette version.
 
 ## Captures
-![Accueil](images/accueil.png)
-![Tableau de bord](images/tableau_de_bord.png)
+
+![Espace_connexion](images/Espace_co.png)
+![Accueil](images/Accueil.png)
+![Fonction_collaboratives](images/Fonction_collabo.png)
+![Tableau de bord](images/Dashboard.png)
+
 
 ## Utilisation
 1. Ouvrir `application/[nom du fichier].xlsm`.
