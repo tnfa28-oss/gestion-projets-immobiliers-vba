@@ -40,6 +40,7 @@ avec VBA : clients, terrains, budget, permis, avancement des chantiers et tablea
 3. Naviguer depuis l'écran d'accueil : [Après connexion explorer les fonctionnalités de l'application en cliquant sur les boutons].
 
 ## Organisation du dépôt
+- `application/` : fichier Xlsm
 - `code/` : les modules VBA exportés (lisibles directement sur GitHub)
 - `images/` : captures d'écran
 
